@@ -1,0 +1,21 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+#brand-image{
+  height: 40px;
+}
+.jumbotron{
+    background-image: url(https://bayviewhealthcare.co.uk/wp-content/uploads/2019/11/11.jpg);
+    background-size: cover;
+    height: 500px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#twitterhandle{
+  height: 30px;
+  padding: 0.35em;
+}
